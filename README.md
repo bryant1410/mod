@@ -55,7 +55,7 @@ modJS是一套的前端模块加载解决方案。与传统的模块加载相比
  创建一个样式列表并将css内容写入
 
 
-##说明
+## 说明
 
 modJS只实现了AMD的一个子集，如果需要使用完整兼容AMD规范的版本，请使用amd目录下的esl-mod.js，这个版本是基于[esl](https://github.com/ecomfe/esl)版本基础之上实现了fis的需求。
 
